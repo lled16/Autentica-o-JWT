@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jDcBBAqISkf3rHsUx+Cn9bShHNk+xlfCxSV4Ry9HyGY=",
+  "Source": "ApiRickMorty",
+  "BasePath": "_content/ApiRickMorty",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
